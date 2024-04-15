@@ -214,10 +214,6 @@ body {
             margin-bottom: 5px;
             margin-left: 0px;
         }
-        hr{
-            width: 50%; 
-            text-align: center;
-        }
     }
 }
 
@@ -298,10 +294,6 @@ body {
             margin-right: 0px;
             margin-bottom: 5px;
             margin-left: 0px;
-        }
-        
-        hr{
-            width: 50%; 
         }
     }
 }
